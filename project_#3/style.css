@@ -1,0 +1,21 @@
+.h1{
+	font: oblique bold 190% cursive;
+}
+.p{
+	font: small-caps 300%/200% serif;
+	color: red;
+}
+
+.h2{
+  width: 200px;
+  height: 190px;
+
+}
+.h3{
+  width: 200px;
+  height: 190px;
+}
+.h4{
+  width: 200px;
+  height: 190px;
+}
